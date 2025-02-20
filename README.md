@@ -5,6 +5,8 @@ This is tobi's profile.
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobi8068&show_icons=true&theme=radical&timestamp={current_time})      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobi8068&layout=compact&theme=radical&timestamp={current_time})
+
 <p align="center">
   <a>
     <img
