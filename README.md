@@ -138,6 +138,24 @@ Passionate software engineer specializing in cutting-edge technologies including
 <div align="center">
   
 ### ⚡ **Fun Fact**
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+*1. **"Code is like humor. When you have to explain it, it's bad."** - Cory House*  
+
+*2. **"First, solve the problem. Then, write the code."** - John Johnson*  
+
+*3. **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."** - Martin Fowler*  
+
+*4. **"The only way to go fast is to go well."** - Robert C. Martin*  
+
+*5. **"Programming isn't about what you know; it's about what you can figure out."** - Chris Pine*  
+
+*6. **"The best error message is the one that never shows up."** - Thomas Fuchs*  
+
+*7. **"Simplicity is the soul of efficiency."** - Austin Freeman*  
+
+*8. **"Make it work, make it right, make it fast."** - Kent Beck*  
+
+*9. **"The most disastrous thing that you can ever learn is your first programming language."** - Alan Kay*  
+
+*10. **"There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies."** - C.A.R. Hoare*
 
 </div>
