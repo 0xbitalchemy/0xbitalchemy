@@ -135,7 +135,7 @@ Passionate software engineer specializing in cutting-edge technologies including
 
 ---
 
-<div align="center">
+<div align="left">
   
 ### ⚡ **Fun Fact**
 *1. **"Code is like humor. When you have to explain it, it's bad."** - Cory House*  
