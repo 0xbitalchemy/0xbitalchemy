@@ -16,7 +16,7 @@ Passionate software engineer specializing in cutting-edge technologies including
 
 <p align="center">
   <a href="https://github.com/tobi8068?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tobi8068&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="@tobi8068's github-readme-stats-one-bice"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tobi8068&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/tobi8068?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobi8068&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
