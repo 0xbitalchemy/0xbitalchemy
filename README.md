@@ -19,7 +19,7 @@ Passionate software engineer specializing in cutting-edge technologies including
     <img src="https://github-readme-stats.vercel.app/api?username=0xbitalchemy&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues" width="48%" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/0xbitalchemy?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbitalchemy8&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbitalchemy&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
   </a>
 </p>
 
