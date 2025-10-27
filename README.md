@@ -1,7 +1,7 @@
 # Senior Software Engineer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tobi8068&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tobi8068" />
+  <img src="https://komarev.com/ghpvc/?username=0xbitalchemy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="0xbitalchemy" />
 </p>
 
 ## 🚀 About Me
@@ -15,24 +15,24 @@ Passionate software engineer specializing in cutting-edge technologies including
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/tobi8068?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=tobi8068&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues" width="48%" alt="GitHub Stats"/>
+  <a href="https://github.com/0xbitalchemy?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xbitalchemy&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues" width="48%" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/tobi8068?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobi8068&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+  <a href="https://github.com/0xbitalchemy?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xbitalchemy8&theme=radical&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tobi8068">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobi8068&theme=radical&hide_border=true" width="90%" alt="GitHub Streak"/>
+  <a href="https://github.com/0xbitalchemy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xbitalchemy&theme=radical&hide_border=true" width="90%" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=tobi8068&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Weekly%20Contribution%20Graph&area_color=ff77a4"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=0xbitalchemy&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Weekly%20Contribution%20Graph&area_color=ff77a4"
       width="95%" alt="Activity Graph">
   </a>
 </p>
