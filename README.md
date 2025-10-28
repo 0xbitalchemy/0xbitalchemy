@@ -1,9 +1,5 @@
 # Senior Software Engineer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xbitalchemy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="0xbitalchemy" />
-</p>
-
 ## 🚀 About Me
 
 **Software Engineer | Full Stack Development | Generative AI | Blockchain | Langchain | Trading Bot Development**
